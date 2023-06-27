@@ -4,10 +4,10 @@ Content-Type: application/json
 {
   "id": "3",
   "isbm": "234234234",
-  "title": "ABoltus v strane chudes",
+  "title": "sdfsdfsdfsdfs",
   "director": {
-    "first_name": "Maloy",
-    "last_name": "Loh"
+    "first_name": "werwer",
+    "last_name": "ghjghj"
   }
 }
 
@@ -26,9 +26,9 @@ Content-Type: application/json
 {
   "id": "2",
   "isbm": "234234234",
-  "title": "ABoltus v strane chudes",
+  "title": "sdfsdfsdfsdfs",
   "director": {
-    "first_name": "Maloy",
-    "last_name": "Loh"
+    "first_name": "werwer",
+    "last_name": "ghjghj"
   }
 }
