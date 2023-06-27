@@ -1,0 +1,34 @@
+POST http://localhost:8000/movies
+Content-Type: application/json
+
+{
+  "id": "3",
+  "isbm": "234234234",
+  "title": "ABoltus v strane chudes",
+  "director": {
+    "first_name": "Maloy",
+    "last_name": "Loh"
+  }
+}
+
+###
+
+DELETE localhost:8000/movies/531492
+
+###
+
+GET localhost:8000/movies
+
+###
+PUT localhost:8000/movies/2
+Content-Type: application/json
+
+{
+  "id": "2",
+  "isbm": "234234234",
+  "title": "ABoltus v strane chudes",
+  "director": {
+    "first_name": "Maloy",
+    "last_name": "Loh"
+  }
+}
